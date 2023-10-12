@@ -7,6 +7,17 @@
     img{
       object-fit: cover;
     }
+
+    .hero{
+      height: 100vh;
+      width: 100vw;
+      background-color: #141516;
+    }
+
+    .textcontainer{
+      position: relative;
+      color: white;
+    }
     
     .sliderContainer{
       position: absolute;
