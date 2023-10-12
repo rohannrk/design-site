@@ -48,15 +48,6 @@ export default function Home() {
       <div className={styles.hero}>
 
       </div>
-      <div className={styles.sliderContainer}>
-        <div ref={slider} className={styles.slider}>
-          <p ref={firstText}>Freelance Designer -</p>
-          <p ref={secondText}>Freelance Designer -</p>
-        </div>
-      </div>  
-      {/* <div className={styles.textcontainer}>
-          <div>Hi! I’m Rohan,</div>
-      </div> */}
     </motion.main>
   )
 }
